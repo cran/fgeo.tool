@@ -1,11 +1,11 @@
 Package: fgeo.tool
 Title: Import and Manipulate ForestGEO Data
-Version: 1.2.4
+Version: 1.2.5
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
              role = c("aut", "ctr", "cre"),
-             email = "leporem@si.edu",
+             email = "maurolepore@gmail.com",
              comment = c(ORCID = "0000-0002-1986-7988")),
       person(given = "Richard",
              family = "Condit",
@@ -42,12 +42,12 @@ Language: en-US
 LazyData: true
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-05-10 18:03:15 UTC; LeporeM
+Packaged: 2019-06-17 18:40:43 UTC; mauro
 Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   Richard Condit [aut],
   Suzanne Lao [aut],
   Anudeep Singh [aut],
   CTFS-ForestGEO [cph, fnd]
-Maintainer: Mauro Lepore <leporem@si.edu>
+Maintainer: Mauro Lepore <maurolepore@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-05-13 13:40:03 UTC
+Date/Publication: 2019-06-17 19:30:03 UTC
