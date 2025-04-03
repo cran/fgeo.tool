@@ -29,7 +29,7 @@
 #'   }
 #'   ```
 #'
-#' * [enquo()] and [enquos()] delay the execution of one or several
+#' * [rlang::enquo()] and [rlang::enquos()] delay the execution of one or several
 #'   function arguments. The former returns a single expression, the
 #'   latter returns a list of expressions. Once defused, expressions
 #'   will no longer evaluate on their own. They must be injected back

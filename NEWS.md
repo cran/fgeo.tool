@@ -1,3 +1,7 @@
+# fgeo.tool 1.2.10
+
+* Maintenance release.
+
 # fgeo.tool 1.2.9
 
 * Maintenance release.

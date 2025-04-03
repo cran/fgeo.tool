@@ -60,7 +60,7 @@ example_path()
 #>  [9] "view"          "weird"         "xl"
 
 (vft_file <- example_path("view/vft_4quad.csv"))
-#> [1] "/usr/local/lib/R/site-library/fgeo.x/extdata/view/vft_4quad.csv"
+#> [1] "/home/rstudio/R/x86_64-pc-linux-gnu-library/4.6/fgeo.x/extdata/view/vft_4quad.csv"
 ```
 
 `read_vft()` and `read_taxa()` import a ViewFullTable and ViewTaxonomy

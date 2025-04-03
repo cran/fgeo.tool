@@ -90,7 +90,7 @@ read_taxa <- read_fgeo(col_types = type_taxa())
 #' * `type_taxa():` Type specification for _ViewFullTaxonomy_.
 #'
 #' @details
-#' Types reference (for more details see [read_delim()]):
+#' Types reference (for more details see [readr::read_delim()]):
 #' * c = character,
 #' * i = integer,
 #' * n = number,

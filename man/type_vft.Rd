@@ -32,7 +32,7 @@ These functions output the specification of column types used internally by
 }
 }
 \details{
-Types reference (for more details see \code{\link[=read_delim]{read_delim()}}):
+Types reference (for more details see \code{\link[readr:read_delim]{readr::read_delim()}}):
 \itemize{
 \item c = character,
 \item i = integer,

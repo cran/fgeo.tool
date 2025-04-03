@@ -1,6 +1,6 @@
-14b15fbcc15bf1e30aafcab7c92e1811 *DESCRIPTION
+b319b5066f2110f3034b01b36f57e990 *DESCRIPTION
 349c7cfc9d4c99fea9328b50ba4910e6 *NAMESPACE
-15c65c837ba23f3b2b8789fcddc1135e *NEWS.md
+3d31436fecf9e2dd6cca17ad6951d7a1 *NEWS.md
 6818922bbd23d0bd85ac43e68a60a42d *R/aaa-imports-reeports.R
 8d2487dbf45064f33b08e5a80830b68e *R/aaa-utils-pipe.R
 e1fa78f2654f569b397fbd01528b60a2 *R/aaa-utils.R
@@ -23,13 +23,13 @@ cde27d2882fdbd6e73ee470fcd71046f *R/flag_if_group.R
 fab3f3fc31ff0e2efe8b86752c8c8552 *R/nms_manipulate_names.R
 b7b157f10cc18f47cdc62fde406342c3 *R/pick_drop_var_cond.R
 243f9296ddf42a18a5b1672ba61e5002 *R/pick_main_stem.R
-64a2fb0cf5f9a9a5756bcd20d80e3544 *R/read_fgeo.R
+12a64570cbbbd77cf5a82b41022a07dd *R/read_fgeo.R
 ba01137bd43e11af382901d9dd66fd63 *R/rename_matches.R
 f2303e1903af9dc4c7231bb5ecce37a0 *R/sanitize.R
 2589f73d6a2bc624c428a0b8928fbd0f *R/type_ensure.R
-36309a70eeed2908d3cfa5b542a42951 *R/utils-tidy-eval.R
+f8404cfad122bc794c5a40812d7ed646 *R/utils-tidy-eval.R
 57c129ab6b200ab79e56f8d49311e2c1 *R/warn_na.R
-756eff00f07b3ef44732d5e53377eb1b *README.md
+10d723b1e175d65dac476b43853b84ae *README.md
 ecb81a7dc29763dcb27279e79507ef9f *inst/WORDLIST
 65fe82b7f766ec510e933bf2317361eb *inst/buildignore/issues/iss59/TianTong_Elev.txt
 7fb97634e86b45ddde307a4e04f72b5b *man/add_status_tree.Rd
@@ -56,9 +56,9 @@ f567d038354344557b0c62db69e4027f *man/read_vft.Rd
 3f7b7213ef75c2c656f184c589d835e2 *man/reexports.Rd
 31c0573cf558d1bb3addb753e0f76099 *man/rename_matches.Rd
 2f37682e72d55a41afc970ef6e51c6b8 *man/sanitize_vft.Rd
-0387a0fdc046b417ccff44603467804f *man/tidyeval.Rd
+6e754835551a7813079994450ff5fbfb *man/tidyeval.Rd
 fae358c9336573178f0b82e965e75127 *man/type_ensure.Rd
-e39327e2d5a7b1bf6d82b4f98131ba8a *man/type_vft.Rd
+9790483a00cab0d872f93468ae8089dc *man/type_vft.Rd
 50f330eeca8db092d6807e04457bd06d *tests/spelling.R
 a476775ae91664cb2fe243b713840671 *tests/testthat.R
 d5de13246760ddd394945bbb122ee4ce *tests/testthat/Rplots.pdf
